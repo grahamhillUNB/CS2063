@@ -1,0 +1,96 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\graha\Desktop\cs2063-winter-2020-labs-master\Lab2\Lab2ActivityLifecycle\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\graha\Desktop\cs2063-winter-2020-labs-master\Lab2\Lab2ActivityLifecycle\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\graha\Desktop\cs2063-winter-2020-labs-master\Lab2\Lab2ActivityLifecycle\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\graha\Desktop\cs2063-winter-2020-labs-master\Lab2\Lab2ActivityLifecycle\app\src\main\AndroidManifest.xml:2:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\graha\.gradle\caches\transforms-2\files-2.1\4dbe1e2472fa0fa9bb5c29be59f20b24\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\graha\.gradle\caches\transforms-2\files-2.1\6d47dd76bafa7103f38b7a8b9387ef22\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\graha\.gradle\caches\transforms-2\files-2.1\369c2012d0aa2634cd4bbb64d999d9c0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\graha\.gradle\caches\transforms-2\files-2.1\cc9ccf111799acef7a54f092c474ef95\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\graha\.gradle\caches\transforms-2\files-2.1\0cf6d3b810074068171d5ba849a06896\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\graha\.gradle\caches\transforms-2\files-2.1\6ba3ca27dd73ae1dbcd8d89488d9adf6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\graha\.gradle\caches\transforms-2\files-2.1\d6060cba128a5c6dcd54f47d5ef8da62\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\graha\.gradle\caches\transforms-2\files-2.1\04bea9f787572b165661dbe3f6fb2176\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\graha\.gradle\caches\transforms-2\files-2.1\25784131a5ba1ef99a27f3a533057485\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\graha\.gradle\caches\transforms-2\files-2.1\d6b56e7340a04fd925afcdb01bf11c96\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\graha\.gradle\caches\transforms-2\files-2.1\1fb63e59a073c8b629294cf5b050fbb1\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\graha\Desktop\cs2063-winter-2020-labs-master\Lab2\Lab2ActivityLifecycle\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\graha\Desktop\cs2063-winter-2020-labs-master\Lab2\Lab2ActivityLifecycle\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\graha\Desktop\cs2063-winter-2020-labs-master\Lab2\Lab2ActivityLifecycle\app\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from C:\Users\graha\Desktop\cs2063-winter-2020-labs-master\Lab2\Lab2ActivityLifecycle\app\src\main\AndroidManifest.xml:3:5-53
+		INJECTED from C:\Users\graha\Desktop\cs2063-winter-2020-labs-master\Lab2\Lab2ActivityLifecycle\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\graha\Desktop\cs2063-winter-2020-labs-master\Lab2\Lab2ActivityLifecycle\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\graha\Desktop\cs2063-winter-2020-labs-master\Lab2\Lab2ActivityLifecycle\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\graha\Desktop\cs2063-winter-2020-labs-master\Lab2\Lab2ActivityLifecycle\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from C:\Users\graha\Desktop\cs2063-winter-2020-labs-master\Lab2\Lab2ActivityLifecycle\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\graha\Desktop\cs2063-winter-2020-labs-master\Lab2\Lab2ActivityLifecycle\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\graha\Desktop\cs2063-winter-2020-labs-master\Lab2\Lab2ActivityLifecycle\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from C:\Users\graha\Desktop\cs2063-winter-2020-labs-master\Lab2\Lab2ActivityLifecycle\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\graha\Desktop\cs2063-winter-2020-labs-master\Lab2\Lab2ActivityLifecycle\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\graha\Desktop\cs2063-winter-2020-labs-master\Lab2\Lab2ActivityLifecycle\app\src\main\AndroidManifest.xml:5:5-20:19
+	android:label
+		ADDED from C:\Users\graha\Desktop\cs2063-winter-2020-labs-master\Lab2\Lab2ActivityLifecycle\app\src\main\AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from C:\Users\graha\Desktop\cs2063-winter-2020-labs-master\Lab2\Lab2ActivityLifecycle\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\graha\Desktop\cs2063-winter-2020-labs-master\Lab2\Lab2ActivityLifecycle\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\graha\Desktop\cs2063-winter-2020-labs-master\Lab2\Lab2ActivityLifecycle\app\src\main\AndroidManifest.xml:9:9-40
+activity#mobiledev.unb.ca.lab2activitylifecycle.ActivityOne
+ADDED from C:\Users\graha\Desktop\cs2063-winter-2020-labs-master\Lab2\Lab2ActivityLifecycle\app\src\main\AndroidManifest.xml:10:9-18:20
+	android:label
+		ADDED from C:\Users\graha\Desktop\cs2063-winter-2020-labs-master\Lab2\Lab2ActivityLifecycle\app\src\main\AndroidManifest.xml:12:13-45
+	android:name
+		ADDED from C:\Users\graha\Desktop\cs2063-winter-2020-labs-master\Lab2\Lab2ActivityLifecycle\app\src\main\AndroidManifest.xml:11:13-40
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\graha\Desktop\cs2063-winter-2020-labs-master\Lab2\Lab2ActivityLifecycle\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\graha\Desktop\cs2063-winter-2020-labs-master\Lab2\Lab2ActivityLifecycle\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\graha\Desktop\cs2063-winter-2020-labs-master\Lab2\Lab2ActivityLifecycle\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\graha\Desktop\cs2063-winter-2020-labs-master\Lab2\Lab2ActivityLifecycle\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\graha\Desktop\cs2063-winter-2020-labs-master\Lab2\Lab2ActivityLifecycle\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\graha\Desktop\cs2063-winter-2020-labs-master\Lab2\Lab2ActivityLifecycle\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\graha\Desktop\cs2063-winter-2020-labs-master\Lab2\Lab2ActivityLifecycle\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\graha\Desktop\cs2063-winter-2020-labs-master\Lab2\Lab2ActivityLifecycle\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\graha\.gradle\caches\transforms-2\files-2.1\4dbe1e2472fa0fa9bb5c29be59f20b24\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\graha\.gradle\caches\transforms-2\files-2.1\4dbe1e2472fa0fa9bb5c29be59f20b24\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\graha\.gradle\caches\transforms-2\files-2.1\6d47dd76bafa7103f38b7a8b9387ef22\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\graha\.gradle\caches\transforms-2\files-2.1\6d47dd76bafa7103f38b7a8b9387ef22\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\graha\.gradle\caches\transforms-2\files-2.1\369c2012d0aa2634cd4bbb64d999d9c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\graha\.gradle\caches\transforms-2\files-2.1\369c2012d0aa2634cd4bbb64d999d9c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\graha\.gradle\caches\transforms-2\files-2.1\cc9ccf111799acef7a54f092c474ef95\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\graha\.gradle\caches\transforms-2\files-2.1\cc9ccf111799acef7a54f092c474ef95\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\graha\.gradle\caches\transforms-2\files-2.1\0cf6d3b810074068171d5ba849a06896\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\graha\.gradle\caches\transforms-2\files-2.1\0cf6d3b810074068171d5ba849a06896\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\graha\.gradle\caches\transforms-2\files-2.1\6ba3ca27dd73ae1dbcd8d89488d9adf6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\graha\.gradle\caches\transforms-2\files-2.1\6ba3ca27dd73ae1dbcd8d89488d9adf6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\graha\.gradle\caches\transforms-2\files-2.1\d6060cba128a5c6dcd54f47d5ef8da62\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\graha\.gradle\caches\transforms-2\files-2.1\d6060cba128a5c6dcd54f47d5ef8da62\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\graha\.gradle\caches\transforms-2\files-2.1\04bea9f787572b165661dbe3f6fb2176\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\graha\.gradle\caches\transforms-2\files-2.1\04bea9f787572b165661dbe3f6fb2176\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\graha\.gradle\caches\transforms-2\files-2.1\25784131a5ba1ef99a27f3a533057485\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\graha\.gradle\caches\transforms-2\files-2.1\25784131a5ba1ef99a27f3a533057485\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\graha\.gradle\caches\transforms-2\files-2.1\d6b56e7340a04fd925afcdb01bf11c96\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\graha\.gradle\caches\transforms-2\files-2.1\d6b56e7340a04fd925afcdb01bf11c96\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\graha\.gradle\caches\transforms-2\files-2.1\1fb63e59a073c8b629294cf5b050fbb1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\graha\.gradle\caches\transforms-2\files-2.1\1fb63e59a073c8b629294cf5b050fbb1\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\graha\Desktop\cs2063-winter-2020-labs-master\Lab2\Lab2ActivityLifecycle\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\graha\Desktop\cs2063-winter-2020-labs-master\Lab2\Lab2ActivityLifecycle\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\graha\Desktop\cs2063-winter-2020-labs-master\Lab2\Lab2ActivityLifecycle\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\graha\Desktop\cs2063-winter-2020-labs-master\Lab2\Lab2ActivityLifecycle\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\graha\Desktop\cs2063-winter-2020-labs-master\Lab2\Lab2ActivityLifecycle\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\graha\Desktop\cs2063-winter-2020-labs-master\Lab2\Lab2ActivityLifecycle\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\graha\Desktop\cs2063-winter-2020-labs-master\Lab2\Lab2ActivityLifecycle\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\graha\Desktop\cs2063-winter-2020-labs-master\Lab2\Lab2ActivityLifecycle\app\src\main\AndroidManifest.xml
